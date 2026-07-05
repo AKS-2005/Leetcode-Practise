@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -90,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
