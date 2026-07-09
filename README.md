@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
