@@ -100,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0110-balanced-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Hash Table
 |  |
