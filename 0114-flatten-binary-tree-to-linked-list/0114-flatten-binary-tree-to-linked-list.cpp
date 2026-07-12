@@ -12,23 +12,17 @@
 class Solution {
 public:
     
-    TreeNode* linkedlist(TreeNode* root){
-        if(root==NULL) return NULL;
-        TreeNode* left = linkedlist(root->left);
-        TreeNode* right = linkedlist(root->right);
-        if(left){
-            TreeNode* trav=left;
-            while(trav->right !=NULL){
-                trav=trav->right;
-            }
-            trav->right=right;
-            root->right=left;
-            root->left=NULL;
-        }
-        return root;
-    }
+    TreeNode* prev = nullptr;
 
     void flatten(TreeNode* root) {
-        linkedlist(root);
+        if (!root) return;
+
+        flatten(root->right);
+        flatten(root->left);
+
+        root->right = prev;
+        root->left = nullptr;
+        prev = root;
     }
+
 };
