@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
