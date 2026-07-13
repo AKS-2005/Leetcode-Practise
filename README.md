@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Tree
 |  |
 | ------- |
