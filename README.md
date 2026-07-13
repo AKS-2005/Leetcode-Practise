@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3110-score-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3110-score-of-a-string) |
 ## Greedy
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
