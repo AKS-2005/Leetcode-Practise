@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3110-score-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
