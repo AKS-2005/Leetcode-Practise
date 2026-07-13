@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> dp;
+    /*vector<int> dp;
     int solve(int n){
         if(n==1){
             return 0;
@@ -18,5 +18,8 @@ public:
     int minCost(int n) {
         dp.assign(n+1,-1);
         return solve(n);
+    }*/
+    int minCost(int n) {
+        return n*(n-1)/2;
     }
 };
