@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
 | ------- |
