@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0035-search-insert-position) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Tree
 |  |
