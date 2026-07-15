@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0328-odd-even-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
