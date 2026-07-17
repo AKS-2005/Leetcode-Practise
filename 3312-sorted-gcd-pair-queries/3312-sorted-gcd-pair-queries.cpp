@@ -64,11 +64,7 @@ public:
         }
         vector<int> ans;
         for (long long q : queries) {
-            int gcdValue = lower_bound(prefix.begin(),
-                                       prefix.end(),
-                                       q + 1)
-                           - prefix.begin();
-
+            int gcdValue = lower_bound(prefix.begin(),prefix.end(),q + 1)- prefix.begin();
             ans.push_back(gcdValue);
         }
         return ans;
