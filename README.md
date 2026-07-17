@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,10 +201,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
