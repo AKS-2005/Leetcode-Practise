@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
