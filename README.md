@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [1323-maximum-69-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1323-maximum-69-number) |
@@ -225,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
