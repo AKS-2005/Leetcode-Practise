@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [3174-clear-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
