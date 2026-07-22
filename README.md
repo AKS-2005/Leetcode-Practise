@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3174-clear-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0035-search-insert-position) |
+| [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Hash Table
 |  |
@@ -242,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
