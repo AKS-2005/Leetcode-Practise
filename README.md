@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [3174-clear-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3701-compute-alternating-sum) |
