@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
