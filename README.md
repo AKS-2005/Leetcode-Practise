@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1544-make-the-string-great) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2390-removing-stars-from-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3110-score-of-a-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1544-make-the-string-great](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1544-make-the-string-great) |
+| [2390-removing-stars-from-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
