@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0541-reverse-string-ii) |
+| [0824-goat-latin](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0824-goat-latin) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1544-make-the-string-great) |
