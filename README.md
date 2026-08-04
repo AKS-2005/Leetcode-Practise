@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3731-find-missing-elements) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
