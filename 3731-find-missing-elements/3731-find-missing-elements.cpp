@@ -6,10 +6,13 @@ public:
         int mini=nums[0];
         int maxi=nums[n-1];
         vector<int> ans;
-        for(int i=0;i<n-1;i++){
-            for (int x = nums[i] + 1; x < nums[i + 1]; x++) {
-                ans.push_back(x);
-            }
+        int j=0;
+        for(int i=mini;i<=maxi;i++)
+        {
+            if(nums[j]==i)
+            j++;
+            else
+            ans.push_back(i);
         }
         return ans;
     }
