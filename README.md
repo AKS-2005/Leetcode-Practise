@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0932-beautiful-array) |
 | [1323-maximum-69-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0932-beautiful-array) |
 ## Queue
 |  |
 | ------- |
