@@ -1,15 +1,36 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, vector<int>& numsDivide) {
-        sort(nums.begin(),nums.end());
-        int x=numsDivide[0];
-        for(int i=0;i<numsDivide.size();i++){
-            x=gcd(x,numsDivide[i]);
+        map<int, int> mp;
+
+        // Store frequency of each number
+        for (int x : nums) {
+            mp[x]++;
         }
-        
-        for(int i=0;i<nums.size();i++){
-            if(x%nums[i]==0) return i;
+
+        int deletions = 0;
+
+        // map is automatically sorted by key
+        for (auto [x, freq] : mp) {
+
+            bool valid = true;
+
+            // Check whether x divides every element
+            // in numsDivide
+            for (int y : numsDivide) {
+                if (y % x != 0) {
+                    valid = false;
+                    break;
+                }
+            }
+
+            if (valid)
+                return deletions;
+
+            // All occurrences of x have to be deleted
+            deletions += freq;
         }
+
         return -1;
     }
 };
