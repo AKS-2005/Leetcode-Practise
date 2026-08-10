@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
+| [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2390-removing-stars-from-a-string) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 ## Design
 |  |
