@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0932-beautiful-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0541-reverse-string-ii) |
 | [0824-goat-latin](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0824-goat-latin) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1436-destination-city) |
 | [1544-make-the-string-great](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1544-make-the-string-great) |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
