@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0541-reverse-string-ii) |
 | [0824-goat-latin](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0824-goat-latin) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
