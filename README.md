@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
