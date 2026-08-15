@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -475,4 +478,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
