@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3174-clear-digits) |
 | [3701-compute-alternating-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
