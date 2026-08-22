@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2895-minimum-processing-time](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2895-minimum-processing-time) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
+| [2895-minimum-processing-time](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2895-minimum-processing-time) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2895-minimum-processing-time](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2895-minimum-processing-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3536-maximum-product-of-two-digits) |
