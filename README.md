@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
+| [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
@@ -516,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
