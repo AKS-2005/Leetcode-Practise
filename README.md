@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
