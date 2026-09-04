@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
@@ -532,10 +535,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 ## Directed Acyclic Graph
 |  |
