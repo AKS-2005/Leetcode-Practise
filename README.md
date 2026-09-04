@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1598-crawler-log-folder) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1598-crawler-log-folder) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2390-removing-stars-from-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2390-removing-stars-from-a-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3903-smallest-stable-index-i) |
