@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
+| [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1436-destination-city) |
