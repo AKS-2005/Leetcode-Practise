@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1323-maximum-69-number) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0912-sort-an-array) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0403-frog-jump) |
+| [0435-non-overlapping-intervals](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
