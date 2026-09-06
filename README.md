@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
+| [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
