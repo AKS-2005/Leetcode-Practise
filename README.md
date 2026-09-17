@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
