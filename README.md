@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0775-global-and-local-inversions) |
+| [0836-rectangle-overlap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0932-beautiful-array) |
 | [1025-divisor-game](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1025-divisor-game) |
@@ -609,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
