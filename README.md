@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
