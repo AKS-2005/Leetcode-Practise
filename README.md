@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0541-reverse-string-ii) |
 | [0824-goat-latin](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0824-goat-latin) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0944-delete-columns-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1323-maximum-69-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1441-build-an-array-with-stack-operations) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
