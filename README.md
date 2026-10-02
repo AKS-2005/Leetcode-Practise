@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0090-subsets-ii) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
