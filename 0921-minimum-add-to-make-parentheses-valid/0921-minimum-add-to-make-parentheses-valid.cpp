@@ -1,19 +1,22 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int count = 0;
-        int charCount = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '(')
-                charCount++;
+        int count=0;
+        int charcount=0;
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='('){
+                charcount++;
+            }
             if (s[i] == ')') {
-                if (charCount == 0) {
+                if (charcount == 0) {
                     count++;
                 } else {
-                    charCount--;
+                    charcount--;
                 }
             }
+
         }
-        return count + charCount;
+        
+        return count + charcount;
     }
 };
