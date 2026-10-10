@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1331-rank-transform-of-an-array) |
