@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0516-longest-palindromic-subsequence](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0541-reverse-string-ii) |
 | [0824-goat-latin](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0824-goat-latin) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0279-perfect-squares) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0090-subsets-ii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1009-complement-of-base-10-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1009-complement-of-base-10-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
