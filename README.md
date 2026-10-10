@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0257-binary-tree-paths) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0189-rotate-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0090-subsets-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1009-complement-of-base-10-integer) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
