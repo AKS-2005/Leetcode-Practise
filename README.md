@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1598-crawler-log-folder) |
+| [1672-richest-customer-wealth](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1710-maximum-units-on-a-truck) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1672-richest-customer-wealth) |
 ## Design
 |  |
 | ------- |
