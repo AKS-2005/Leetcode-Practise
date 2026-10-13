@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0328-odd-even-linked-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3483-unique-3-digit-even-numbers) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0344-reverse-string) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0739-daily-temperatures) |
