@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2895-minimum-processing-time](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2895-minimum-processing-time) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Doubly-Linked List
