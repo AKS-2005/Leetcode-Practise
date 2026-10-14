@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0198-house-robber) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0345-reverse-vowels-of-a-string) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
