@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0120-triangle) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0059-spiral-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
