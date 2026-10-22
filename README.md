@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 ## Iterator
 |  |
 | ------- |
@@ -680,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
