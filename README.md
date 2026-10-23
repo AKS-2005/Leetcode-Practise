@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0596-classes-with-at-least-5-students) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Two Pointers
 |  |
