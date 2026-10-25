@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0120-triangle) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0073-set-matrix-zeroes) |
 | [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0867-transpose-matrix) |
