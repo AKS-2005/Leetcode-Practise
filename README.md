@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0706-design-hashmap) |
 | [0740-delete-and-earn](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 ## Iterator
 |  |
@@ -695,4 +699,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
