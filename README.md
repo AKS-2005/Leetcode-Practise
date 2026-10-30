@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0374-guess-number-higher-or-lower](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/AKS-2005/Leetcode-Practise/tree/master/1004-max-consecutive-ones-iii) |
@@ -708,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0706-design-hashmap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AKS-2005/Leetcode-Practise/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
